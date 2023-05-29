@@ -1,0 +1,4 @@
+(executable
+ (public_name tyinf_polyrec)
+ (name main)
+ (libraries lib str))
